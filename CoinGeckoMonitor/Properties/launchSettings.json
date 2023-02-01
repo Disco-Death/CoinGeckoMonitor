@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "CoinGeckoMonitor": {
+      "commandName": "Project"
+    },
+    "Crypto": {
+      "commandName": "Executable",
+      "executablePath": "D:\\Users\\muhta\\source\\repos\\CoinGeckoMonitor\\CoinGeckoMonitor\\СryptocurrencyService\\bin\\Debug\\net6.0\\СryptocurrencyService.exe"
+    }
+  }
+}
